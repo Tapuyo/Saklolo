@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "14035407975",
+    "project_id": "sakloloph",
+    "storage_bucket": "sakloloph.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14035407975:android:bb267e127758cb35c070c2",
+        "android_client_info": {
+          "package_name": "com.john.sakloloresident"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14035407975-0vv1dg5aoa9deo5qstccfud00ov33vnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQu2c99TB67nQ6nsiQqEoWegs4enyk0Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14035407975-0vv1dg5aoa9deo5qstccfud00ov33vnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
